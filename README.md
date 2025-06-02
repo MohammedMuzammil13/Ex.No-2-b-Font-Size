@@ -31,15 +31,14 @@ Step 6:Close the Android project.
  ```
 /*
 Program to Develop an application that uses Font Size using Android Studio .
-Developed by: RIFNA SHERINE A
-RegisterNumber: 212222040133
+Developed by: MOHAMMED MUZAMMIL A
+RegisterNumber: 212222040103
 */
 ```
 
 ## MainActivity.java:
 ```
 package com.example.ex_2b;
-
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.app.Activity;
